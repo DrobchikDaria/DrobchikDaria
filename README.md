@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Я Дарья 👋</h1>
-<h3 align="center">QA Engineer 3+ практического опыта | Web + Mobile </h3>
+<h3 align="center">QA Engineer 4+ практического опыта | Web + Mobile </h3>
 
 ---
 
