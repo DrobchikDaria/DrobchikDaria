@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Я Дарья 👋</h1>
-<h3 align="center">QA Engineer 3+ практического опыта | Web + Mobile | Стремлюсь быть Fullstack QA 🚀</h3>
+<h3 align="center">QA Engineer 3+ практического опыта | Web + Mobile </h3>
 
 ---
 
